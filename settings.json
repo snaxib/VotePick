@@ -1,0 +1,6 @@
+{
+    "dbuser":"REPLACE",
+    "dbpass":"REPLACE",
+    "dbhost":"REPLACE",
+    "secretKey":"REPLACE"
+  }
